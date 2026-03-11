@@ -10,7 +10,7 @@ fun main() {
     val notas = mutableListOf<Double>()
 
     for (i in 1 .. 3) {
-        println("Digite a ${i}° Nota: ")
+        print("Digite a ${i}° Nota: ")
         notas.add(readln().toDouble())
     }
 
