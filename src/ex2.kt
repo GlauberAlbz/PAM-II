@@ -1,3 +1,8 @@
+/*
+Autor: Glauber Almeida de Brito
+Exercício 2: Crie uma variável numérica e exiba se o número é posítivo, negativo ou zero
+ */
+
 fun main() {
 
     print("Digite um número: ")

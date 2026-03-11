@@ -1,3 +1,8 @@
+/*
+Autor: Glauber Almeida de Brito
+Exercício 1: Crie uma variável numérica e diga se o número é par ou ímpar
+ */
+
 fun main() {
 
     print("Digite um número: ")
